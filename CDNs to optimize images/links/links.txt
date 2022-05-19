@@ -1,0 +1,18 @@
+articles
+1) httpsweb.devimage-cdns
+2) wroth airticel what Gopi bro what
+        https://www.smashingmagazine.com/2017/04/content-delivery-network-optimize-images/
+3) superwroth
+     https://medium.com/@firt/faster-paint-metrics-with-responsive-image-optimization-cdns-d43340d4a48c
+
+free trials
+1) https://imagekit.io/lp/image-cdn/?utm_source=google&utm_medium=cpc&utm_campaign=image-cdn-asia_other&gclid=Cj0KCQiA3-yQBhD3ARIsAHuHT65gBmrTtl_A4wxYa5v2726iGmB3UggFoTfCXPFdzc-R458joPaP4OoaAndrEALw_wcB
+2) cloudnary
+https://cloudinary.com/blog/delivering_all_your_websites_images_through_a_cdn/
+
+
+
+Real example
+ docs : https://docs.imagekit.io/features/image-optimization/png-compression
+ website : https://imagekit.io/dashboard/media-library?sort=DESC_CREATED&view=GRID
+

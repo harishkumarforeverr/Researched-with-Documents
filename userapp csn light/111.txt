@@ -1,0 +1,25 @@
+   
+ <meta http-equiv="Accept-CH" content="DPR, Viewport-Width, Width">
+
+
+const webFormat = "f_auto,g_auto,c_fill,w_auto,c_scale,dpr_auto,q_auto,fl_any_format";
+const mobileFormat = `q_30,f_auto,g_auto,c_fill,w_auto,c_scale,dpr_auto,fl_any_format`;
+
+
+    <picture>
+                <source
+                  media="(min-width:40em)" 
+                  srcSet={`https://res.cloudinary.com/dev2prod/image/upload/dpr_auto,f_auto,fl_any_format,q_auto/v1646984708/userapp/newBannerImages/download_bg_lxpimg.png`}
+                />
+                <source
+                  media="(max-width:37em)"
+                  srcSet={`https://res.cloudinary.com/dev2prod/image/upload/dpr_auto,f_auto,fl_any_format,q_auto/v1646984708/userapp/newBannerImages/download_bg_lxpimg.png`}
+                
+                />
+                <img
+                  srcSet="https://res.cloudinary.com/dev2prod/image/upload/dpr_auto,f_auto,fl_any_format,q_auto/v1646984708/userapp/newBannerImages/download_bg_lxpimg.png"
+                  alt="HomeBannerImage"
+                  className="pictureImage"
+                      {...props}
+                />
+              </picture> 

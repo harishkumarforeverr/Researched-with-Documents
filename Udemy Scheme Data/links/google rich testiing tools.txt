@@ -1,0 +1,5 @@
+https://search.google.com/test/rich-results
+
+
+and scheme offical website validator
+https://validator.schema.org/
